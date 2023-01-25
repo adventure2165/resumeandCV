@@ -9,30 +9,39 @@
 ### 2. Education
   - Sunrin Internet HighSchool, 2010.03 ~ 2013.02
   - Korea University, B.E. Course, 2013.03 ~ 2017.02
-    * School of Electronic Engineering
-    * 소프트웨어 기술과 산업 융합전공(현 인공지능 융합전공)
+    * 제1전공 : 전기전자전파공학부(School of Electrical Engineering)
+    * 융합전공 : 소프트웨어 기술과산업 융합전공(Software Technology and Enterprise Program for Unlimited Potential)
   - Korea University M.S. Course, 2017.03 ~ 2020.02
-    * 컴퓨터학
-    * 석사 논문.
+    * 컴퓨터학과
 
-### 3. Skills
+### 3. Tech Stacks
 * Language
 
-Skill        | Experiences | Careers | Note
+Language       | Experiences | Careers | Note
 -------------|-------------|---------|-----------------------------------
 Python       | 7 년         | 3 년    | 현재 주력 사용 언어
-JAVA| 12년 | - | 2016년 이후 사용하지 않음.
-C++|1년 미만 | 1년 미만 | 
+JAVA| 3년          | - | 2016년 이후 사용하지 않음.
+C++| 1년 미만       | 1년 미만 | 
 
-* Package? Library?
+* AI Tools
 
 Skill        | Experiences | Careers | Note 
 -------------|-------------|---------|-----------------------------------
-Tensorflow|
-Keras |
+Tensorflow&Keras|
 Pytorch|
-Github action|
-Docker|
+OpenCV|
+Transformers|
+
+* MLOps
+
+* Collaborative Tool
+
+Tool      | Experiences | Careers | Note 
+-------------|-------------|---------|-----------------------------------
+Notion|
+Slack|
+GitHub|
+GitLab|
 
 
 ## 4. Experience
