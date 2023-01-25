@@ -15,36 +15,35 @@
     * 컴퓨터학과
 
 ### 3. Tech Stacks
-* Language
+#### Language
 
-Language       | Experiences | Careers | Note
--------------|-------------|---------|-----------------------------------
-Python       | 7 년         | 3 년    | 현재 주력 사용 언어
-JAVA| 3년          | - | 2016년 이후 사용하지 않음.
-C++| 1년 미만       | 1년 미만 | 
+Language       |  Experiences |  Careers | Note
+:-------------|-------------:|---------:|-----------------------------------
+Python       |           7년 |       3년 | 현재 주력 사용 언어
+JAVA|           3년 |        - | 2016년 이후 사용하지 않음.
+C++|        1년 미만 |    1년 미만 | 
 
-* AI Tools
+#### AI Tools
+  * Pytorch
+  * Tensorflow & Keras
+  * OpenCV-python
+  * Gensim
+  * Transformers
 
-Skill        | Experiences | Careers | Note 
--------------|-------------|---------|-----------------------------------
-Tensorflow&Keras|
-Pytorch|
-OpenCV|
-Transformers|
+#### MLOps
+  * TorchServe
+  * Docker
+  * MWAA (Amazon Managed Workflow for Apache Airflow)
+  * Flask
+  * Github Actions
 
-* MLOps
+#### Collaborative Tool
+  * Notion
+  * Slack
+  * Github
+  * GitLab
 
-* Collaborative Tool
-
-Tool      | Experiences | Careers | Note 
--------------|-------------|---------|-----------------------------------
-Notion|
-Slack|
-GitHub|
-GitLab|
-
-
-## 4. Experience
+### 4. Experience
 - 프로그래밍 경험: 13 년 (Since 2010.)
   - 총 상용 경력 31 개월 (2022.01 기준)
     - 정규직: 13 개월
@@ -56,3 +55,5 @@ Company | Entry Date | Leave Date | Form
 [한양대학교 산학협력단]()     | 2020-10    | 2022-03    | 계약직
 아키드로우 | 2022-04    | 재직중        | 정규직
 
+### 5. Projects
+작성중...
